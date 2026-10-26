@@ -1,0 +1,1 @@
+{"name":"pdf_toc","description":"Returns the Table of Contents (bookmarks/outlines) of the PDF with hierarchy levels and target page numbers (~100 tokens).","parameters":{"type":"object","properties":{"file_path":{"type":"string","description":"Path to the PDF file"}},"required":["file_path"]}}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "pdf-reader-mcp": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\erch\\Мой диск\\1 for ai\\mcp\\pdf-reader-mcp\\pdf_reader_mcp.py"
+      ]
+    }
+  }
+}
